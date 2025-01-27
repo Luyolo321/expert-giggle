@@ -1,0 +1,4 @@
+<script src="https://static.elfsight.com/platform/platform.js" async></script>
+<div class="elfsight-app-e2c92897-481b-4c19-b207-89a755f50b66" data-elfsight-app-lazy></div>
+<script src="https://static.elfsight.com/platform/platform.js" async></script>
+<div class="elfsight-app-c6a38e75-88df-48e4-bce3-a6c09dba1d95" data-elfsight-app-lazy></div>
